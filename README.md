@@ -1,5 +1,3 @@
-Sure, here's a sample README for your GitHub page:
-
 # Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis
 
 This repository contains the data, figures, and scripts used in the research paper "<a href="https://pubmed.ncbi.nlm.nih.gov/36138438/"> Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis</a>". The paper investigates the differences in the gut microbiomes of infants with food protein-induced allergic proctocolitis (FPIAP) compared to healthy controls and provides insights into the potential causal relationship between gut microbiome dysbiosis and FPIAP.
@@ -15,6 +13,14 @@ The `figures` folder contains the figures presented in the paper, including bar 
 ## Scripts
 
 The `scripts` folder contains the R scripts used to analyze the gut microbiome data and generate the figures presented in the paper. The scripts are organized by figure and include detailed comments to explain the code.
+
+## UnknownVsUnclsf
+
+In the "UnknownVsUnclsf" subproject, we aimed to explore the differences between unknown and unclassified OTUs, and investigate how to assign appropriate taxonomy names to these OTUs. 
+
+In the context of this study, "unknown" refers to OTUs that have no match to any known sequence in the reference database, while "unclassified" refers to OTUs that match a sequence in the reference database, but could not be assigned to any known taxonomic group. 
+
+To assign appropriate taxonomy names to these unknown and unclassified OTUs, we used a combination of BLAST searches and manual curation. The detailed methodology can be found in the "UnknownVsUnclsf" folder, which contains the relevant scripts and data files.
 
 ## Conclusion
 
