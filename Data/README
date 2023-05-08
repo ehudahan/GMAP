@@ -1,0 +1,10 @@
+############## GMAP ##################
+# Data folder
+# created by Ehud Dahan
+
+diverdity.tsv - all GMAP samples by their diversities scores by different methods
+dnaSequences.fasta - ASVs and their related sequence.  QIIME2 output
+featureTable.tsv - GMAP sample by features abundance (genus level)
+metadata.tsv - GMAP samples by their clinical metadata. 
+taxonomy.tsv - full taxonomic name by ASV name
+
