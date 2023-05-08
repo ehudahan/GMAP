@@ -2,7 +2,7 @@ Sure, here's a sample README for your GitHub page:
 
 # Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis
 
-This repository contains the data, figures, and scripts used in the research paper <a href="https://pubmed.ncbi.nlm.nih.gov/36138438/"> "Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis"</a>. The paper investigates the differences in the gut microbiomes of infants with food protein-induced allergic proctocolitis (FPIAP) compared to healthy controls and provides insights into the potential causal relationship between gut microbiome dysbiosis and FPIAP.
+This repository contains the data, figures, and scripts used in the research paper "<a href="https://pubmed.ncbi.nlm.nih.gov/36138438/"> Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis</a>". The paper investigates the differences in the gut microbiomes of infants with food protein-induced allergic proctocolitis (FPIAP) compared to healthy controls and provides insights into the potential causal relationship between gut microbiome dysbiosis and FPIAP.
 
 ## Data
 
